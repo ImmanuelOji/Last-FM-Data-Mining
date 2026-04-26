@@ -59,7 +59,7 @@ This project was developed using Jupyter Notebook.
 
 ## Key Dependencies
 
-- Python 3.x  
+- Python 3.12.13 
 - pandas  
 - mlxtend  
 - prefixspan  
@@ -76,7 +76,7 @@ project/
 ├── checkpoints/
 │ ├── checkpoint_1.ipynb
 │ └── checkpoint_2.ipynb
-├── data/ # Dataset (not uploaded if large)
+├── data/ # Datasets
 ├── requirements.txt
 ├── README.md
 
