@@ -70,7 +70,8 @@ This project was developed using Jupyter Notebook.
 ---
 
 ## Repository Structure
-project/
+
+Last-FM-Data-Mining/
 │
 ├── main_notebook.ipynb # Final curated notebook (START HERE)
 ├── checkpoints/
