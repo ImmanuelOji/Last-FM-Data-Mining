@@ -72,13 +72,21 @@ This project was developed using Jupyter Notebook.
 ## Repository Structure
 
 Last-FM-Data-Mining/
+
 │
+
 ├── main_notebook.ipynb # Final curated notebook (START HERE)
+
 ├── checkpoints/
+
 │ ├── checkpoint_1.ipynb
+
 │ └── checkpoint_2.ipynb
+
 ├── data/ # Datasets
+
 ├── requirements.txt
+
 └── README.md
 
 ---
