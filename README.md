@@ -50,11 +50,12 @@ We apply multiple data mining techniques to uncover relationships between artist
 
 This project was developed using Jupyter Notebook.
 
-### Steps:
-1. Download dataset from the link above  
-2. Place data files in `data/` folder  
-4. Run the notebook:
+
+Just run the notebook:
      main_notebook.ipynb
+     Make sure you run this:
+     !pip install prefixspan
+     !pip install mlxtend
 ---
 
 ## Key Dependencies
