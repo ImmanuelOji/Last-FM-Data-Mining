@@ -79,7 +79,7 @@ Last-FM-Data-Mining/
 │ └── checkpoint_2.ipynb
 ├── data/ # Datasets
 ├── requirements.txt
-├── README.md
+└── README.md
 
 ---
 
