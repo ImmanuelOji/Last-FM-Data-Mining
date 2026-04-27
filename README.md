@@ -49,13 +49,13 @@ We apply multiple data mining techniques to uncover relationships between artist
 ## How to Reproduce
 
 This project was developed using Jupyter Notebook.
+Make sure you run this:
+  !pip install prefixspan
+  !pip install mlxtend
 
 
 Just run the notebook:
      main_notebook.ipynb
-     Make sure you run this:
-     !pip install prefixspan
-     !pip install mlxtend
 ---
 
 ## Key Dependencies
